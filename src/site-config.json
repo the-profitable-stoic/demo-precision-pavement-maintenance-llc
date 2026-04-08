@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Precision Pavement Maintenance LLC",
+    "phone": "+14058234763",
+    "category": "driveway paving",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Driveway Paving Pros",
+      "heroSubline": "Oklahoma City's trusted driveway paving experts. Quality paving, built to last through Oklahoma's toughest weather.",
+      "aboutTitle": "Oklahoma City's Paving Authority",
+      "aboutText": [
+        "Precision Pavement Maintenance LLC started with a simple goal: to provide Oklahoma City homeowners with durable, beautiful driveways that stand the test of time. Frustrated by seeing shoddy paving work crumble under Oklahoma's harsh climate, we decided to bring a higher standard to the industry.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and unwavering attention to detail. We understand the nuances of Oklahoma City's soil and weather patterns, and we build our driveways to withstand it all, from scorching summers to icy winters. We don't cut corners, and we stand behind our work.",
+        "We're not just paving driveways; we're building relationships within the Oklahoma City community. We believe in honest communication, transparent pricing, and a commitment to exceeding expectations. When you choose Precision Pavement Maintenance, you're choosing a partner who cares about your property and your satisfaction."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Paving",
+          "description": "Built to withstand Oklahoma's extreme temperatures and severe weather events."
+        },
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience paving driveways throughout the Oklahoma City metro area."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade asphalt and concrete to ensure lasting durability."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "Get a clear, upfront estimate with no hidden costs or obligations."
+        }
+      ],
+      "ctaHeadline": "Ready for a Durable Driveway?",
+      "ctaSubline": "Contact Precision Pavement Maintenance today for a free estimate and experience the difference quality paving makes."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "Durable and cost-effective asphalt driveways built to withstand Oklahoma's climate.",
+        "description": "Asphalt driveway paving is a popular choice for Oklahoma City homeowners seeking a durable and cost-effective solution. At Precision Pavement Maintenance, we specialize in asphalt driveway installation, repair, and resurfacing. Our experienced team understands the specific challenges posed by Oklahoma's climate, including extreme temperatures and seasonal shifts that can impact asphalt integrity. We use only high-quality asphalt mixes designed to resist cracking, rutting, and other forms of damage.\n\nOur asphalt paving process begins with a thorough site assessment to evaluate soil conditions and drainage patterns. We then prepare the base layer with precision, ensuring proper compaction and grading to prevent future issues. Our skilled paving crew carefully applies the asphalt, paying close attention to detail to achieve a smooth, even surface. We also offer asphalt sealing services to protect your driveway from the elements and extend its lifespan.\n\nWhether you're looking to install a new asphalt driveway or repair an existing one, Precision Pavement Maintenance is your trusted partner. We provide free estimates and transparent pricing, ensuring you know exactly what to expect. With our commitment to quality and customer satisfaction, you can be confident that your asphalt driveway will provide years of reliable performance.",
+        "process": [
+          "Site Assessment & Preparation",
+          "Base Layer Installation",
+          "Asphalt Paving & Compaction",
+          "Sealing & Finishing"
+        ],
+        "benefits": [
+          "Durable & Long-Lasting",
+          "Cost-Effective Solution",
+          "Smooth & Even Surface",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long will an asphalt driveway last in Oklahoma City?",
+            "answer": "With proper maintenance, an asphalt driveway can last 15-20 years in Oklahoma City, even with our fluctuating temperatures."
+          },
+          {
+            "question": "Do you offer asphalt sealing services?",
+            "answer": "Yes, we highly recommend sealing your asphalt driveway every 2-3 years to protect it from the elements and extend its lifespan."
+          },
+          {
+            "question": "What is the best time of year to pave an asphalt driveway in OKC?",
+            "answer": "Spring and fall are generally the best times of year for asphalt paving in Oklahoma City, as the temperatures are moderate and the ground is dry."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-driveway-paving",
+        "name": "Concrete Driveway Paving",
+        "shortDescription": "Durable and customizable concrete driveways for Oklahoma City homes.",
+        "description": "Concrete driveways offer a durable and aesthetically pleasing option for Oklahoma City homeowners. Precision Pavement Maintenance specializes in concrete driveway installation, repair, and replacement. Our skilled team understands the unique challenges presented by Oklahoma's clay soil and fluctuating temperatures, ensuring your concrete driveway is built to last. We use high-strength concrete mixes and employ proven techniques to minimize cracking and settling.\n\nOur concrete paving process begins with a thorough site evaluation, including soil testing and drainage analysis. We then prepare the subgrade with precision, ensuring proper compaction and stability. Our experienced concrete finishers carefully pour and shape the concrete, paying close attention to detail to create a smooth, level surface. We also offer a variety of decorative concrete options, including stamped patterns, colored concrete, and exposed aggregate finishes, allowing you to customize your driveway to complement your home's architecture.\n\nWhether you're looking to install a new concrete driveway or replace an existing one, Precision Pavement Maintenance is your trusted partner. We provide free estimates and transparent pricing, ensuring you know exactly what to expect. With our commitment to quality and customer satisfaction, you can be confident that your concrete driveway will enhance the beauty and value of your property for years to come.",
+        "process": [
+          "Site Evaluation & Soil Testing",
+          "Subgrade Preparation",
+          "Concrete Pouring & Finishing",
+          "Curing & Sealing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Customizable Designs",
+          "Increased Property Value",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long will a concrete driveway last in Oklahoma City?",
+            "answer": "A properly installed and maintained concrete driveway can last 25-30 years or more in Oklahoma City."
+          },
+          {
+            "question": "Do you offer decorative concrete options?",
+            "answer": "Yes, we offer a variety of decorative concrete options, including stamped patterns, colored concrete, and exposed aggregate finishes."
+          },
+          {
+            "question": "What is the best way to prevent cracking in a concrete driveway?",
+            "answer": "Proper site preparation, the use of high-strength concrete mixes, and proper curing techniques are essential for preventing cracking in a concrete driveway."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-repair-resurfacing",
+        "name": "Driveway Repair & Resurfacing",
+        "shortDescription": "Fix cracks and restore your driveway's appearance with our expert repair services.",
+        "description": "Is your driveway cracked, crumbling, or showing signs of wear and tear? Precision Pavement Maintenance offers comprehensive driveway repair and resurfacing services to restore your driveway's beauty and functionality. We understand the challenges Oklahoma City's climate poses to driveways, from freeze-thaw cycles to extreme heat. Our experienced team can diagnose and address a wide range of driveway issues, including cracks, potholes, settling, and surface deterioration.\n\nDepending on the severity of the damage, we offer various repair options, including crack filling, patching, and resurfacing. For minor cracks and potholes, we use high-quality patching materials that bond securely to the existing driveway surface. For more extensive damage, we may recommend resurfacing, which involves applying a new layer of asphalt or concrete over the existing driveway. This can significantly improve the appearance and lifespan of your driveway without the need for a complete replacement.\n\nWhether you have an asphalt or concrete driveway, Precision Pavement Maintenance has the expertise to restore it to its original condition. We provide free estimates and transparent pricing, ensuring you know exactly what to expect. With our commitment to quality and customer satisfaction, you can be confident that your driveway repair or resurfacing project will be completed to the highest standards.",
+        "process": [
+          "Driveway Inspection & Assessment",
+          "Damage Repair (Cracks, Potholes)",
+          "Surface Preparation",
+          "Resurfacing (If Necessary)"
+        ],
+        "benefits": [
+          "Improved Appearance",
+          "Extended Driveway Lifespan",
+          "Cost-Effective Solution",
+          "Enhanced Safety"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my driveway needs repair or resurfacing?",
+            "answer": "If your driveway has multiple cracks, potholes, or significant surface deterioration, it's likely time for repair or resurfacing. We can provide a free inspection to assess the damage and recommend the best course of action."
+          },
+          {
+            "question": "Can you repair cracks in asphalt driveways?",
+            "answer": "Yes, we offer crack filling services for asphalt driveways. We use high-quality crack sealant to prevent water from penetrating the cracks and causing further damage."
+          },
+          {
+            "question": "How long does driveway resurfacing take?",
+            "answer": "The duration of driveway resurfacing depends on the size and condition of your driveway, but it typically takes 1-3 days to complete."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-sealing",
+        "name": "Driveway Sealing",
+        "shortDescription": "Protect your asphalt driveway from the elements with our professional sealing services.",
+        "description": "Protect your investment and extend the life of your asphalt driveway with Precision Pavement Maintenance's professional driveway sealing services. Sealing your asphalt driveway is a crucial step in preventing damage from the elements, including sun, rain, oil, and chemicals. In Oklahoma City, with our intense summers and occasional ice storms, sealing is even more important to protect your driveway from cracking and deterioration.\n\nOur experienced team uses high-quality sealant products that are specifically designed to penetrate and protect asphalt surfaces. Before sealing, we thoroughly clean your driveway to remove dirt, debris, and oil stains. We then apply the sealant evenly, ensuring complete coverage. Our sealing process helps to prevent water penetration, which can lead to cracking and potholes. It also protects your driveway from harmful UV rays and chemicals, extending its lifespan and maintaining its appearance.\n\nPrecision Pavement Maintenance recommends sealing your asphalt driveway every 2-3 years to maintain its optimal condition. Our driveway sealing services are affordable and effective, providing long-lasting protection for your investment. Contact us today for a free estimate and let us help you keep your asphalt driveway looking its best.",
+        "process": [
+          "Driveway Cleaning",
+          "Crack Filling (If Necessary)",
+          "Sealant Application",
+          "Curing & Inspection"
+        ],
+        "benefits": [
+          "Extended Driveway Lifespan",
+          "Protection from the Elements",
+          "Enhanced Appearance",
+          "Prevention of Cracks & Potholes"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "We recommend sealing your asphalt driveway every 2-3 years to maintain its optimal condition."
+          },
+          {
+            "question": "What are the benefits of sealing my driveway?",
+            "answer": "Sealing your driveway protects it from water penetration, UV rays, oil, and chemicals, extending its lifespan and enhancing its appearance."
+          },
+          {
+            "question": "How long does it take for the sealant to dry?",
+            "answer": "The sealant typically takes 24-48 hours to dry, depending on the weather conditions."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-grading-excavation",
+        "name": "Driveway Grading & Excavation",
+        "shortDescription": "Proper grading and excavation for a solid driveway foundation.",
+        "description": "A solid driveway starts with proper grading and excavation. Precision Pavement Maintenance provides expert driveway grading and excavation services to ensure a stable and long-lasting foundation for your driveway. In Oklahoma City, where clay soil and drainage issues are common, proper grading and excavation are essential to prevent settling, cracking, and water damage.\n\nOur experienced team uses specialized equipment to precisely grade and excavate your driveway area, ensuring proper slope and drainage. We remove any unsuitable soil and replace it with compacted gravel or other suitable base materials. Our grading and excavation services are tailored to the specific needs of your property, taking into account soil conditions, drainage patterns, and local building codes. We pay close attention to detail to ensure a level and stable foundation for your driveway.\n\nWhether you're installing a new driveway or repairing an existing one, Precision Pavement Maintenance's grading and excavation services are essential for a successful project. We provide free estimates and transparent pricing, ensuring you know exactly what to expect. With our commitment to quality and customer satisfaction, you can be confident that your driveway will be built on a solid foundation.",
+        "process": [
+          "Site Survey & Planning",
+          "Excavation & Soil Removal",
+          "Grading & Compaction",
+          "Drainage Installation (If Necessary)"
+        ],
+        "benefits": [
+          "Stable Driveway Foundation",
+          "Prevention of Settling & Cracking",
+          "Proper Drainage",
+          "Compliance with Local Codes"
+        ],
+        "faq": [
+          {
+            "question": "Why is proper grading and excavation important for a driveway?",
+            "answer": "Proper grading and excavation ensure a stable foundation for your driveway, preventing settling, cracking, and water damage."
+          },
+          {
+            "question": "Do you handle drainage issues?",
+            "answer": "Yes, we can install drainage systems to prevent water from pooling on your driveway and causing damage."
+          },
+          {
+            "question": "How do you determine the proper slope for a driveway?",
+            "answer": "We use specialized equipment and techniques to determine the proper slope for your driveway, taking into account soil conditions and drainage patterns."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-extensions",
+        "name": "Driveway Extensions",
+        "shortDescription": "Expand your parking space with a professionally installed driveway extension.",
+        "description": "Need more parking space? Precision Pavement Maintenance offers professional driveway extension services to expand your parking area and enhance the functionality of your property. Whether you have a growing family, multiple vehicles, or simply want to improve the curb appeal of your home, a driveway extension can be a valuable addition.\n\nOur experienced team can design and install a driveway extension that seamlessly integrates with your existing driveway. We take into account your property's layout, soil conditions, and local building codes to ensure a durable and aesthetically pleasing result. We offer a variety of materials and finishes to match your existing driveway, including asphalt, concrete, and decorative options. Our driveway extension services are tailored to your specific needs and preferences, ensuring a perfect fit for your home.\n\nPrecision Pavement Maintenance handles all aspects of your driveway extension project, from excavation and grading to paving and finishing. We provide free estimates and transparent pricing, ensuring you know exactly what to expect. With our commitment to quality and customer satisfaction, you can be confident that your driveway extension will be a valuable and long-lasting investment.",
+        "process": [
+          "Site Assessment & Design",
+          "Excavation & Grading",
+          "Base Preparation",
+          "Paving & Finishing"
+        ],
+        "benefits": [
+          "Increased Parking Space",
+          "Enhanced Property Value",
+          "Improved Curb Appeal",
+          "Customized Design Options"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of adding a driveway extension?",
+            "answer": "A driveway extension increases parking space, enhances property value, and improves curb appeal."
+          },
+          {
+            "question": "What materials can I use for a driveway extension?",
+            "answer": "We offer a variety of materials for driveway extensions, including asphalt, concrete, and decorative options."
+          },
+          {
+            "question": "Do I need a permit for a driveway extension?",
+            "answer": "Permit requirements vary depending on your location and the size of the extension. We can help you determine if a permit is required and assist with the application process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC is proud to serve the vibrant community of Oklahoma City with top-quality driveway paving services. We understand the unique needs of OKC residents and businesses, offering durable and aesthetically pleasing solutions for driveways of all sizes. From new installations to repairs and resurfacing, we're committed to providing exceptional workmanship and customer satisfaction.\n\nOur team utilizes the latest techniques and high-quality materials to ensure long-lasting results that enhance the curb appeal and value of your property. Whether you're in the historic Paseo Arts District or the bustling Bricktown entertainment area, Precision Pavement Maintenance LLC is your trusted partner for all your driveway paving needs. We are dedicated to serving the entire Oklahoma City metro area and surrounding communities.\n\nWe offer a full range of services including asphalt paving, concrete paving, driveway repairs, sealcoating, and more. Our experienced team will work with you to find the best solution for your needs and budget. We are committed to providing quality workmanship and excellent customer service.",
+        "localContext": "Oklahoma City, the state capital, boasts a diverse economy and a growing population. Its unique blend of urban amenities and Southern charm makes it a great place to live and work.",
+        "nearbyAreas": [
+          "Edmond",
+          "Norman",
+          "Moore"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC extends its expert driveway paving services to the thriving city of Edmond. We understand the importance of well-maintained driveways for Edmond homeowners and businesses, offering customized solutions to meet their specific needs.\n\nFrom residential driveways in quiet neighborhoods to commercial parking lots, we provide durable and attractive paving options. Our team is dedicated to delivering exceptional quality and exceeding customer expectations. We use only the highest quality materials and most advanced techniques to ensure a long-lasting and beautiful driveway for your home or business.\n\nWe offer a comprehensive range of paving services including new driveway installation, resurfacing, and repair. We are committed to providing our clients with the best possible service and workmanship.",
+        "localContext": "Edmond is known for its excellent schools, family-friendly atmosphere, and beautiful parks. It's a growing community with a strong sense of pride.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC is proud to serve the vibrant community of Norman, home to the University of Oklahoma. We recognize the specific paving requirements of both residential and commercial properties in this dynamic city.\n\nWe offer a wide range of driveway paving services, from new installations to repairs and maintenance. Our team is committed to providing durable, aesthetically pleasing, and cost-effective solutions that enhance the value and curb appeal of your property. Whether you're near campus or in a residential neighborhood, we're ready to meet your paving needs.\n\nWe offer a full range of paving services, including asphalt paving, concrete paving, driveway repairs, sealcoating and more. Our team is dedicated to providing quality workmanship and excellent customer service.",
+        "localContext": "Norman is a lively college town with a rich history and a strong sense of community. Its vibrant atmosphere and diverse population make it a great place to live and visit.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC provides reliable and professional driveway paving services to the residents and businesses of Moore. We understand the challenges faced by Moore property owners and offer tailored solutions to address their specific paving needs.\n\nFrom repairing storm-damaged driveways to installing new, durable surfaces, our team is dedicated to delivering exceptional workmanship and customer satisfaction. We use only the highest quality materials and modern techniques to ensure long-lasting results. We are committed to providing quality workmanship and excellent customer service.\n\nWe offer a full range of paving services including asphalt paving, concrete paving, driveway repairs, sealcoating and more. We are committed to ensuring your driveway is safe, durable and aesthetically pleasing.",
+        "localContext": "Moore is a family-oriented community with a strong sense of resilience. Known for its friendly atmosphere and convenient location, it's a great place to call home.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC is pleased to offer its expertise in driveway paving to the growing city of Yukon. We understand that Yukon residents value quality and reliability, and we strive to exceed their expectations with our exceptional paving services.\n\nWhether you need a new driveway installed, an existing one repaired, or a surface resurfaced, our team has the skills and experience to get the job done right. We are committed to providing durable, aesthetically pleasing, and cost-effective solutions that enhance the value of your property. We offer a full range of paving services including asphalt paving, concrete paving, driveway repairs, sealcoating and more.\n\nWe use only the highest quality materials and modern techniques to ensure long-lasting results. We are committed to providing quality workmanship and excellent customer service.",
+        "localContext": "Yukon is a thriving community with a strong sense of tradition and a growing economy. Its friendly atmosphere and convenient location make it an attractive place to live and work.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC is proud to serve the residents and businesses of Mustang with superior driveway paving services. We understand the unique needs of Mustang property owners and offer customized solutions to meet their specific requirements.\n\nFrom residential driveways to commercial parking areas, we provide durable and attractive paving options. Our team is dedicated to delivering exceptional quality and exceeding customer expectations. We use only the highest quality materials and most advanced techniques to ensure a long-lasting and beautiful driveway for your home or business. We offer a full range of paving services including asphalt paving, concrete paving, driveway repairs, sealcoating and more.\n\nWe are committed to providing our clients with the best possible service and workmanship. We understand that your driveway is an important investment, and we will work with you to ensure that it is properly installed and maintained.",
+        "localContext": "Mustang is a growing community known for its excellent schools and family-friendly environment. Its convenient location and strong sense of community make it a desirable place to live.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Union City"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC extends its professional driveway paving services to the city of Choctaw. We understand the importance of a well-maintained driveway for both the appearance and value of your property in Choctaw.\n\nWe offer a comprehensive range of services, including new driveway installations, repairs, and resurfacing. Our team uses only the highest quality materials and proven techniques to ensure lasting durability and aesthetic appeal. Whether you're looking to enhance your home's curb appeal or improve the functionality of your commercial property, Precision Pavement Maintenance LLC is here to help. We are committed to providing quality workmanship and excellent customer service.\n\nWe offer a full range of paving services, including asphalt paving, concrete paving, driveway repairs, sealcoating, and more. Our experienced team will work with you to find the best solution for your needs and budget.",
+        "localContext": "Choctaw is a growing community with a strong sense of local pride and a commitment to preserving its unique heritage. Its friendly atmosphere and convenient location make it an attractive place to live.",
+        "nearbyAreas": [
+          "Midwest City",
+          "Oklahoma City",
+          "Harrah"
+        ]
+      },
+      {
+        "city": "Midwest City",
+        "slug": "midwest-city-ok",
+        "state": "OK",
+        "content": "Precision Pavement Maintenance LLC is dedicated to providing top-quality driveway paving services to the residents and businesses of Midwest City. We understand the specific needs of this community and offer customized solutions to meet them.\n\nFrom new installations to repairs and maintenance, our team is committed to delivering exceptional workmanship and customer satisfaction. We use only the highest quality materials and modern techniques to ensure long-lasting results. We offer a full range of paving services including asphalt paving, concrete paving, driveway repairs, sealcoating and more. We are committed to ensuring your driveway is safe, durable and aesthetically pleasing.\n\nWhether you're near Tinker Air Force Base or in a residential neighborhood, Precision Pavement Maintenance LLC is your trusted partner for all your driveway paving needs. We are committed to providing quality workmanship and excellent customer service.",
+        "localContext": "Midwest City is a vibrant community with a strong connection to Tinker Air Force Base. Its diverse population and convenient location make it a great place to live and work.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Del City",
+          "Choctaw"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "Precision Pavement Maintenance did an excellent job paving our new asphalt driveway. They were professional, efficient, and the driveway looks fantastic! The crew was very respectful of our property and cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "We had several large cracks in our concrete driveway, and Precision Pavement Maintenance was able to repair them quickly and effectively. The price was reasonable, and the repairs seem very durable. I am happy with the service.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Driveway Sealing",
+        "text": "We hired Precision Pavement Maintenance to seal our asphalt driveway, and we're very pleased with the results. The driveway looks great, and we feel confident that it's protected from the elements. The team was punctual and professional.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Concrete Driveway Paving",
+        "text": "From start to finish, the team was professional and easy to work with. They communicated clearly throughout the process and delivered a beautiful concrete driveway that exceeded our expectations. Great work!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Driveway Extension",
+        "text": "Precision Pavement Maintenance added a driveway extension for us. The crew was efficient and professional, and the extension blends seamlessly with our existing driveway. It's exactly what we needed!",
+        "date": "2024-07-18"
+      },
+      {
+        "name": "Robert C.",
+        "rating": 5,
+        "service": "Driveway Repair & Resurfacing",
+        "text": "Our driveway was in terrible shape, with cracks and potholes everywhere. Precision Pavement Maintenance resurfaced it, and it looks brand new! They did an amazing job, and we couldn't be happier with the results.",
+        "date": "2024-06-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "OKC Driveway Paving | Precision Pavement",
+        "description": "Oklahoma City's top driveway paving contractor. Asphalt & concrete driveways, repairs, sealing. Free estimates!"
+      },
+      "about": {
+        "title": "About Us | Precision Pavement Maintenance LLC",
+        "description": "Learn about Precision Pavement Maintenance's commitment to quality driveway paving in Oklahoma City. Experienced, local experts."
+      },
+      "services": {
+        "title": "Driveway Paving Services | OKC",
+        "description": "Asphalt & concrete driveway paving, repair, sealing, and extensions in Oklahoma City. Free estimates. Call today!"
+      },
+      "contact": {
+        "title": "Contact Us | Precision Pavement Maintenance",
+        "description": "Contact Precision Pavement Maintenance for driveway paving estimates and service inquiries in Oklahoma City."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Driveway Paving OKC",
+        "description": "Read reviews from satisfied Precision Pavement Maintenance customers in Oklahoma City. Quality driveway paving and repair."
+      },
+      "service-areas": {
+        "title": "Service Areas | Precision Pavement",
+        "description": "Driveway paving services in Oklahoma City and surrounding areas. Contact us for a free estimate."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "concrete-driveway-paving": "/images/service-concrete-driveway-paving.webp",
+      "driveway-repair-resurfacing": "/images/service-driveway-repair-resurfacing.webp",
+      "driveway-sealing": "/images/service-driveway-sealing.webp",
+      "driveway-grading-excavation": "/images/service-driveway-grading-excavation.webp",
+      "driveway-extensions": "/images/service-driveway-extensions.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-driveway-paving": {
+        "src": "/images/service-concrete-driveway-paving.webp",
+        "srcset": "/images/service-concrete-driveway-paving-400w.webp 400w, /images/service-concrete-driveway-paving-800w.webp 800w, /images/service-concrete-driveway-paving-1200w.webp 1200w, /images/service-concrete-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-repair-resurfacing": {
+        "src": "/images/service-driveway-repair-resurfacing.webp",
+        "srcset": "/images/service-driveway-repair-resurfacing-400w.webp 400w, /images/service-driveway-repair-resurfacing-800w.webp 800w, /images/service-driveway-repair-resurfacing-1200w.webp 1200w, /images/service-driveway-repair-resurfacing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-sealing": {
+        "src": "/images/service-driveway-sealing.webp",
+        "srcset": "/images/service-driveway-sealing-400w.webp 400w, /images/service-driveway-sealing-800w.webp 800w, /images/service-driveway-sealing-1200w.webp 1200w, /images/service-driveway-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-grading-excavation": {
+        "src": "/images/service-driveway-grading-excavation.webp",
+        "srcset": "/images/service-driveway-grading-excavation-400w.webp 400w, /images/service-driveway-grading-excavation-800w.webp 800w, /images/service-driveway-grading-excavation-1200w.webp 1200w, /images/service-driveway-grading-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-extensions": {
+        "src": "/images/service-driveway-extensions.webp",
+        "srcset": "/images/service-driveway-extensions-400w.webp 400w, /images/service-driveway-extensions-800w.webp 800w, /images/service-driveway-extensions-1200w.webp 1200w, /images/service-driveway-extensions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
